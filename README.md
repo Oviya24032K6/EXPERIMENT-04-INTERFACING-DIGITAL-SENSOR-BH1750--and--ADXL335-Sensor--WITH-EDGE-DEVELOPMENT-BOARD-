@@ -504,12 +504,15 @@ while True:
 ````
 ### OUPUT  
 
-# FIGURE -07 
+# FIGURE 
+<img width="637" height="311" alt="image" src="https://github.com/user-attachments/assets/a33d42ed-c01e-46ed-ba9e-b5c68227a135" />
+<img width="668" height="319" alt="image" src="https://github.com/user-attachments/assets/55c53552-cc6a-411e-a3da-e508444d3e73" />
+<img width="686" height="307" alt="image" src="https://github.com/user-attachments/assets/a21e021c-f4da-46c9-8a41-1e0044c1e953" />
+<img width="452" height="314" alt="image" src="https://github.com/user-attachments/assets/3301a30e-853d-408c-9c7d-0b49f87539b8" />
+<img width="448" height="337" alt="image" src="https://github.com/user-attachments/assets/3056da56-5bd9-499c-96be-c11b246e346b" />
 
 
-#  FIGURE -08 
-
-# FIGURE -09 
+ 
 
 
 ## **RESULT:**  
